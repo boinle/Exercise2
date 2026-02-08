@@ -1,0 +1,10 @@
+package LeNhatThaoNguyen_2587;
+
+public interface IBook {
+
+    void addBook();
+
+    void updateBook(String id);
+
+    void displayBook();
+}
